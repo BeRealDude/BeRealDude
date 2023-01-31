@@ -1,16 +1,17 @@
-### Hi there 👋
+### Frontend developer 👋
 
-<!--
-**BeRealDude/BeRealDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills**:
+* HTML
+* CSS
+* JavaScript
+* ReactJs
+* Webpack
+* Git
 
-Here are some ideas to get you started:
+**Contacts**:
+* mail: vlad.nikitin1997@bk.ru
+* telegram: @Who6_9
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeRealDude)](https://git.io/streak-stats)

@@ -1,5 +1,11 @@
 ### Frontend developer 👋
 
+**About me**:
+* I'm moving into development from an auto repair shop.
+* I like to work on complex tasks.
+* I like to think over the architecture and algorithm of my work.
+* The speed and quality of problem solving are important to me.
+
 **Skills**:
 * HTML
 * CSS

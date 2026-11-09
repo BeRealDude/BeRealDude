@@ -1,4 +1,4 @@
-### Frontend developer 👋
+### Software Developer | C++
 
 **About me**:
 * I build projects in C++.
